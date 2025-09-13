@@ -64,4 +64,7 @@ you do not need an updateDisplay.
 
 35) I dont understand.
 
-36)
+36) I succesfully changed the clock so that, it rolls over whenever it reaches 12.
+
+37) THe first option is better in my opinion, because it's not difficult and its simple. 
+All you gotta do is replace the values and it works perfectly fine.
