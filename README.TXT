@@ -47,4 +47,21 @@ you do not need an updateDisplay.
 28) Method 1)  p1.print("I love vanier", true)
     Method 2) int Status = p1.getValue(67);
     
-29)
+29) wall, window, roof, sun.
+
+30)         roof.changeSize(60, 180);
+            roof.moveHorizontal(20);
+            roof.moveVertical(-60);
+            roof.makeVisible();
+            
+31) Of course
+
+32) 2
+
+33) i tried (-8 % 3); and it worked.
+
+34) 0,1,2,3,4
+
+35) I dont understand.
+
+36)
